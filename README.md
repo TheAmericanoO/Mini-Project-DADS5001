@@ -99,7 +99,7 @@ Ans: อันดับค่าตัวเฉลี่ยจากสูงส
 
 /
 
-<<APPENDIX>>
+<< APPENDIX >>
 
 - Column's Description -
 
